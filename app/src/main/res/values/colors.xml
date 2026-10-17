@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black22">#222222</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="greenish">#437A3B</color>
+    <color name="grey">#8F8F8F</color>
+    <color name="greish">#B6B6B6</color>
+    <color name="green">#36B102</color>
+    <color name="red">#B60202</color>
+    <color name="purple">#811E9C</color>
+    <color name="purple11">#4D811E9C</color>
+    <color name="purple2">#6416B9</color>
+    <color name="purple22">#B36416B9</color>
+    <color name="purple3">#666B0D59</color>
+    <color name="purple33">#33130D6B</color>
+    <color name="yellow">#C1AD00</color>
+    <color name="neutral">#99A3A333</color>
+    <color name="neutral2">#C3AF4D</color>
+    <color name="platone">#374B67</color>
+
+</resources>
